@@ -1,10 +1,10 @@
 <h1>TeamZeus - BlockchainProject1</h1>
 
 <h3>Team Members</h3>
-<p>Dhyey Desai || Email - dhyeydesai@csu.fullerton.edu || CWID - 885451609 </p>
-<p>Pranav Pansheriya || Email - pranav08@csu.fullerton.edu || CWID - 885187419 </p>
-<p>Darshit Desai || Email - darshitdesai@csu.fullerton.edu || CWID - 885516997 </p>
-<p>Parth Barot || Email - parth.barot97@csu.fullerton.edu || CWID - 885451617 </p>
+<p>Anisha Singh || Email - anisha.singh@csu.fullerton.edu || CWID:- 885159103 </p>
+<p>Prajwal Chavan || Email - prajwalc2107@csu.fullerton.edu || CWID - 885154344 </p>
+<p>Anamta Ansari || Email - anamtaansari@csu.fullerton.edu || CWID - 884449471 </p>
+<p>Kishore Shankar Abimanyu || Email - kishorehankar@csu.fullerton.edu || CWID - 885237651 </p>
 
 <h3>Improvement</h3>
 <ul>
